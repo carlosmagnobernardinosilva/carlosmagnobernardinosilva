@@ -115,5 +115,4 @@ ORDER BY relevance DESC;
 </p>
 
 <p align="center">
-  <i>"A pergunta certa importa mais que o modelo mais complexo."</i>
 </p>
