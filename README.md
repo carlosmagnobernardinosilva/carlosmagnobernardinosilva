@@ -107,7 +107,6 @@ ORDER BY relevance DESC;
 ---
 
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosmagnobernardinosilva&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
