@@ -78,7 +78,7 @@ ORDER BY relevance DESC;
 
 | Projeto | Descrição |
 |---------|-----------|
-| | |
+| 🎵 **[Spotify EDA](https://github.com/carlosmagnobernardinosilva/spotify-eda)** | Análise exploratória de dados do Spotify com Python e Pandas | 
 
 > *Notebooks do Kaggle, exercícios, análises exploratórias e experimentos menores.*
 
