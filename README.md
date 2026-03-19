@@ -68,7 +68,7 @@ ORDER BY relevance DESC;
 | Projeto | O que faz | Stack |
 |---------|-----------|-------|
 |**[TCC DSA](https://github.com/carlosmagnobernardinosilva/classificador-risco-escolar)** |Classificador ML para identificar precocemente fatores de risco de reprovação escolar, permitindo intervenções pedagógicas preventivas | Python · XGBoost · Scikit-learn · Pandas| 
-
+|Hackathon PODAcademy, Claro e Oracle|Em Breve|Em Breve|
 
 ---
 
