@@ -99,7 +99,7 @@ ORDER BY relevance DESC;
 | O quê | Onde | Quando |
 |-------|------|--------|
 | MBA Data Science & Analytics | **USP** (ESALQ) | 2024–2025 |
-| Full Stack em Dados | **POD Academy** | 2025–2026 |
+| Ciências de Dados | **POD Academy** | 2025–2026 |
 | Tecnólogo em Ciência de Dados | **Uninter** | 2026–atual |
 | Ciências Biológicas (Bach. + Lic.) | **UFV** | 2017–2023 |
 
