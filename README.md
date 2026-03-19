@@ -20,9 +20,8 @@ Sou biólogo de formação pela **Universidade Federal de Viçosa (UFV)**, onde 
 
 Essa descoberta me levou ao **MBA em Data Science & Analytics pela USP (ESALQ)**, onde mergulhei em machine learning, estatística aplicada e Python. Em paralelo, ingressei na **POD Academy**, uma academia de formação técnica em dados que cobre engenharia de dados, machine learning, pipelines e cloud. Dentro da POD, participei de projetos práticos com empresas reais, incluindo um em parceria com **Claro** e **Oracle**, onde trabalhei em squad multidisciplinar com stack de produção, prazos de sprint e apresentação para banca executiva.
 
-Hoje sigo na **POD Academy** (trilha Full Stack em Dados) e no **Tecnólogo em Ciência de Dados (Uninter)**, aprofundando engenharia de dados, cloud e MLOps. Também atuo como professor de ciências na rede pública, o que me deu algo raro na área de dados: saber explicar coisas complexas de um jeito que qualquer pessoa entende.
+Hoje sigo na **POD Academy** e no **Tecnólogo em Ciência de Dados (Uninter)**, aprofundando engenharia de dados, cloud e MLOps. Também atuo como professor de ciências na rede pública, o que me deu algo raro na área de dados: saber explicar coisas complexas de um jeito que qualquer pessoa entende.
 
-Meu diferencial? Penso como cientista e codifico como analista. Formulo hipóteses antes de rodar modelos, e sei que um insight bem comunicado vale mais que um notebook com 200 células.
 
 ---
 
