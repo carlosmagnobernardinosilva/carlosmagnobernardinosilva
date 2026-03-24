@@ -78,6 +78,7 @@ ORDER BY relevance DESC;
 |---------|-----------|
 | 🎵 **[Spotify EDA](https://github.com/carlosmagnobernardinosilva/spotify-eda)** | Análise exploratória de dados do Spotify com Python e Pandas |
  |📊 **[German Credit Risk](https://github.com/carlosmagnobernardinosilva/German_Credit_Risk/tree/main)**|Classificador ML para prever risco de crédito comparando 4 algoritmos (XGBoost, LightGBM, Random Forest, Logistic Regression|
+|**[Credit Risk PodBank](https://github.com/carlosmagnobernardinosilva/pod-bank-credit-score)**| Modelo Behavior usando automação com Claude Code |
 
 > *Notebooks do Kaggle, exercícios, análises exploratórias e experimentos menores.*
 
