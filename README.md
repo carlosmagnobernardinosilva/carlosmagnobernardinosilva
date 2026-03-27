@@ -109,8 +109,8 @@ ORDER BY relevance DESC;
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosmagnobernardinosilva&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmagnobernardinosilva&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosmagnobernardinosilva&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosmagnobernardinosilva&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook" width="48%" />
 </p>
 
 <p align="center">
