@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/carlosmagnobernardinosilva">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#fa979b9d94959889d48993968c9bba9d979b9396d4999597">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:magnobs.silva@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@ ORDER BY relevance DESC;
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosmagnobernardinosilva&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmagnobernardinosilva&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook&cache_seconds=1800&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmagnobernardinosilva&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook" width="48%" />
 </p>
 
 <p align="center">
